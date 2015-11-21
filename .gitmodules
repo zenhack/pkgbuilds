@@ -1,0 +1,9 @@
+[submodule "alot"]
+	path = alot
+	url = aur@aur.archlinux.org:alot
+[submodule "keyringer"]
+	path = keyringer
+	url = aur@aur.archlinux.org:keyringer
+[submodule "pacsync-hg"]
+	path = pacsync-hg
+	url = aur@aur.archlinux.org:pacsync-hg
