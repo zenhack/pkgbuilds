@@ -7,3 +7,6 @@
 [submodule "pacsync-hg"]
 	path = pacsync-hg
 	url = aur@aur.archlinux.org:pacsync-hg
+[submodule "python2-urwidtrees"]
+	path = python2-urwidtrees
+	url = aur@aur.archlinux.org:python2-urwidtrees
