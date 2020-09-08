@@ -1,6 +1,3 @@
-[submodule "alot"]
-	path = alot
-	url = aur@aur.archlinux.org:alot
 [submodule "pacsync-hg"]
 	path = pacsync-git
 	url = aur@aur.archlinux.org:pacsync-hg
